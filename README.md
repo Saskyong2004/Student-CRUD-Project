@@ -99,11 +99,23 @@ The application will run locally at `http://127.0.0.1:8000`.
 
 ## API Documentation
 
+Run Locally
+
 After starting the server, open:
 
 - **Swagger UI:** http://127.0.0.1:8000/docs
 - **ReDoc:** http://127.0.0.1:8000/redoc
 - **API Home:** http://127.0.0.1:8000/
+
+Live Demo
+
+Live API: https://student-crud-project-hxwl.onrender.com/
+
+Swagger UI: https://student-crud-project-hxwl.onrender.com/docs
+
+ReDoc Documentation: https://student-crud-project-hxwl.onrender.com/redoc
+
+The API is deployed on Render. The free service may take a little time to respond after a period of inactivity.
 
 ## API Endpoints
 
